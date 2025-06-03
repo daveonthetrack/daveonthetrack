@@ -8,22 +8,10 @@
 
 ## 🚀 Projects
 
-### 🎧 [LiveCore](https://github.com/daveonthetrack/live-core)
-AI-powered toolkit for live sound engineers  
-*Real-time analyzer, patch list, frequency training, and team comms built into one app.*  
-`React Native` · `Supabase` · `Node.js`
 
-### 🧳 [BagMe](https://github.com/daveonthetrack/bag-me)
-Peer-to-peer shipping platform  
-*Helping the diaspora send items through trusted travelers.*  
-`React` · `Supabase` · `Stripe` · `GeoLocation`
+"WOrking on it"
 
-### 🎶 [Artist Dashboard](https://github.com/daveonthetrack/artist-dashboard)
-PRO-style tool for managing royalties, releases, and music analytics  
-*Inspired by SoundExchange and BMI for Ethiopian creators.*  
-`Java` · `Spring Boot` · `Supabase`
 
----
 
 ## 🔧 Tech Stack
 `React Native` • `Java` • `Supabase` • `Node.js` • `SwiftUI` • `Firebase`  
